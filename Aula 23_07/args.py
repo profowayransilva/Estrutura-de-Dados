@@ -1,2 +1,2 @@
 def incrementar(contador):
-    return contador + 1
+    return contador + 2
